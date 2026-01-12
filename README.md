@@ -15,26 +15,6 @@ Uma calculadora funcional construída com **React** e estilizada com **Tailwind 
 - **Babel** - Transpilador JavaScript
 - **LocalStorage** - Persistência de dados local
 
-## 🎨 Componentes
-
-### Text
-Componente de texto com variantes customizáveis:
-- `default` - Texto padrão
-- `muted` - Texto atenuado
-- `heading` - Título
-- `blast` - Texto destacado
-
-### Button
-Botão customizável com suporte a variantes:
-- `default` - Estilo padrão
-- `primary` - Estilo primário (roxo)
-
-### Card
-Contêiner estilizado para agrupar conteúdo
-
-### Calculator
-Componente principal que gerencia o estado e lógica da calculadora
-
 ## 💾 Armazenamento
 
 O histórico de operações é salvo automaticamente no `localStorage` do navegador com a chave `history`.
