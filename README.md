@@ -2,11 +2,15 @@
 
 Uma calculadora funcional construída com **React** e estilizada com **Tailwind CSS**, como parte dos fundamentos de ReactJS pela Rocketseat.
 
+<br>
+
 ## 🎯 Funcionalidades
 
 - ✅ Operações matemáticas básicas: adição, subtração, multiplicação e divisão
 - ✅ Histórico de operações armazenado no `localStorage`
 - ✅ Componentes reutilizáveis (Text, Button, Card)
+
+<br>
 
 ## 🛠️ Tecnologias
 
@@ -15,9 +19,13 @@ Uma calculadora funcional construída com **React** e estilizada com **Tailwind 
 - **Babel** - Transpilador JavaScript
 - **LocalStorage** - Persistência de dados local
 
+<br>
+
 ## 💾 Armazenamento
 
 O histórico de operações é salvo automaticamente no `localStorage` do navegador com a chave `history`.
+
+<br>
 
 ## 📝 Licença
 
@@ -26,3 +34,5 @@ Este projeto está sob a licença **MIT**.
 ---
 
 Desenvolvido com ❤️ como parte da Formação React - Módulo de Fundamentos - da Rocketseat.
+
+> Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
